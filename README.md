@@ -9,5 +9,13 @@
 ```
 $ npm install
 ```
-2. 启动 AOC2
+2. 启动 KOA2
+```
+$ npm run mock
+```
+3. 启动项目
+```
+$ npm start
+```
 
+![主页](https://github.com/chenshun131/ReactApp/blob/master/img/Snip20180107_1.png)
